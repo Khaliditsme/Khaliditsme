@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khalid-meraj-777502260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-meraj-777502260/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khalid meraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khalid meraj" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@khalidmeraj1027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="khalid meraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/khalidm32749/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khalidm32749/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/khalidmyh8v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="khalidmyh8v" height="30" width="40" /></a>
 </p>
