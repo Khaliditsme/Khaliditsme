@@ -1,5 +1,5 @@
 ![MasterHead]
-(https://drive.google.com/file/d/13bDeAVgQK2f625E7TjVeWrpO3wgfDMSY/view)
+(https://drive.google.com/file/d/13bDeAVgQK2f625E7TjVeWrpO3wgfDMSY/view?usp=sharing)
 <h1 align="center">Hello there, I'm Khalid Meraj 👋</h1>
 <h3 align="center">Frontend developer from India</h3>
 
